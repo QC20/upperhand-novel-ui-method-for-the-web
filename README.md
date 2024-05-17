@@ -1,4 +1,4 @@
-# UpperHand: Exploring Hand Gesture Interaction for the Web
+# UpperHand: Hand Gesture Interaction for the Web
 
 UpperHand is a groundbreaking project that delves into the realm of hand gesture interaction, allowing users to control a UI app through intuitive hand movements. Inspired by advancements in machine learning (ML), particularly the use of hand detection algorithms, UpperHand aims to bridge the gap between technology and human interaction.
 
@@ -7,6 +7,14 @@ UpperHand is a groundbreaking project that delves into the realm of hand gesture
 UpperHand is a web-based tool that enables users to experiment with hand gesture interactions effortlessly. Developed as a personal project by Jonas Kjeldmand Jensen, UpperHand goes beyond mere hand detection demos by empowering users to create their own interactions using hand gestures.
 
 ## Implications of Hand Gesture Interaction
+
+#### Types of Input
+**Thumbs Up**: Return to menu
+**One Finger Up**: Enter item 1
+**Two Fingers Up**: Enter item 2
+**Three Fingers Up**: Enter item 3
+**Fully Open Back Hand**: Zoom out
+**Fully Open Palm Hand**: Zoom in
 
 ### 1. Novel Interactions:
 
