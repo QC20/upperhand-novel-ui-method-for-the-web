@@ -9,12 +9,12 @@ UpperHand is a web-based tool that enables users to experiment with hand gesture
 ## Implications of Hand Gesture Interaction
 
 #### Types of Input
-**Thumbs Up**: Return to menu
-**One Finger Up**: Enter item 1
-**Two Fingers Up**: Enter item 2
-**Three Fingers Up**: Enter item 3
-**Fully Open Back Hand**: Zoom out
-**Fully Open Palm Hand**: Zoom in
+- **Thumbs Up**: Return to menu
+- **One Finger Up**: Enter item 1
+- **Two Fingers Up**: Enter item 2
+- **Three Fingers Up**: Enter item 3
+- **Fully Open Back Hand**: Zoom out
+- **Fully Open (Left/Right Panning) Palm Hand**: Zoom in
 
 ### 1. Novel Interactions:
 
